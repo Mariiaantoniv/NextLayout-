@@ -1,0 +1,36 @@
+.form {
+  margin-bottom: 48px;
+
+  @include on-tablet {
+    margin-bottom: 80px;
+  }
+
+  @include on-desctop {
+    margin-bottom: 0;
+  }
+
+  &__name,
+  &__email {
+    @include form-text;
+  }
+
+  &__message {
+    @include form-text;
+
+    height: 148px;
+
+    margin-bottom: 32px;
+    resize: none;
+  }
+}
+
+  input,
+  textarea{
+    padding: 0;
+
+    &:-webkit-autofill,
+    &:-webkit-autofill:hover,
+    &:-webkit-autofill:focus {
+      -webkit-box-shadow: 0 0 0 40rem #f9f9f9 inset;
+    }
+  }
