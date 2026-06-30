@@ -30,4 +30,4 @@ This project was built using the following technologies:
 
 - HTML5 — used to structure the content of the landing page with semantic and accessible markup.
 - CSS3 — responsible for styling, layout, and responsive design across different screen sizes.
--Sass — a CSS preprocessor that enables cleaner and more maintainable styling through variables, nesting, mixins, and modular structure.
+- Sass — a CSS preprocessor that enables cleaner and more maintainable styling through variables, nesting, mixins, and modular structure.
