@@ -27,6 +27,10 @@
     "eslint-plugin-node": "^11.1.0",
     "gulp": "^5.0.1",
     "parcel": "^2.12.0",
+<<<<<<< HEAD
+=======
+    "prettier": "^2.8.8",
+>>>>>>> 8e826b288d8692053ecb5a4dbd37d1f1060eea35
     "stylelint": "^16.7.0",
     "stylelint-scss": "^6.4.1"
   },
